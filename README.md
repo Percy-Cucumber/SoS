@@ -1,5 +1,6 @@
 # SoS Applets by Percy_Cucumber
 Launch Binder Here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Percy-Cucumber/SoS/HEAD)
+
 Series of applets to be used alongside the mobile game State of Survival. All code written in Python 3 using Jupyter Notebook and shared for free unrestricted public use. Corporate use restricted withouth first seeking permission from the author.
 
 ## SoS-1
