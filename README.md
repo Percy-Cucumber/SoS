@@ -1,2 +1,2 @@
 # sos-1
-An applet for easing the calculation of speedups required for rewards/challenges in State of Survival
+Series of applets to use alongside the mobile game State of Survival
