@@ -60,7 +60,6 @@ This applet is already setup to accomodate uo to 10 plasma ranks, even though on
 - plasma required to max all buildings
 - plasma spent on upgrading buildings thus far
 - plasma still required to finish all building upgrades
-  
 - plasma required to max research (not yet implemented)
 - plasma spent on research thus far (not yet implemented)
 - plasma still required to finish all research (not yet implemented)
