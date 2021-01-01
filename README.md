@@ -48,7 +48,9 @@ If you need any farther assistance for which numerical values to update within e
 
 ## SoS-3
 **Applet for calculating how much plasma you've spent, as well as how much more you will need to spend in order to reach max level of all buildings + research.**
+
 This applet is already setup to accomodate uo to 10 plasma ranks, even though only five currently exist. Currently anything past plasma level 5 can NOT affect your results, though further plasma values will be added to these placeholder slots as soon as more plasma levels are added to State of Survival.
+
 ***APPLET IS NOT YET FULLY COMPLETE***
 
 ### Input:
