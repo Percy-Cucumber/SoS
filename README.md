@@ -48,4 +48,8 @@ If you need any farther assistance for which numerical values to update within e
 
 ## SoS-3
 **Applet for calculating how much plasma you've spent, as well as how much more you will need to spend in order to reach max level of all buildings + research.**
+
 ***APPLET IS NOT YET COMPLETE***
+
+---
+---
