@@ -53,7 +53,7 @@ This applet is already setup to accomodate uo to 10 plasma ranks, even though on
 
 ### Input:
 - how many levels of each building upgrade have been completed
-- which plasma research has been completed (not yet implemented)
+- what plasma research has been completed (not yet implemented)
 ### Output:
 - plasma required to max all buildings
 - plasma spent on upgrading buildings thus far
