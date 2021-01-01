@@ -1,3 +1,6 @@
+---
+---
+
 # SoS Applets by Percy_Cucumber
 These are a series of applets to be used alongside the mobile game State of Survival. All code is written in Python 3 using Jupyter Notebook, and shared using GitHub and Binder for free unrestricted public use. Permission from the author required for any commercial use.
 
@@ -16,8 +19,10 @@ Each individual Jupyter file is clearly annotated, and was designed to be as sim
 6) At any point you may go back into the cells to change out any of the numerical values, though you will need to re-run the code to get updated results printed (see previous step).
 If you need any farther assistance for which numerical values to update within each applet, check the applet's description below:
 
-# Description of Applets
+---
+---
 
+# Description of Applets
 ## SoS-1
 This applet was created for eased calculation of speedup times for events such as Alliance Throwdown.
 ### Information to Input:
