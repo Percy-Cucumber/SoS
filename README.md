@@ -16,7 +16,17 @@ If you need any farther assistance for which numerical values to update within e
 # Description of Applets
 
 ## SoS-1
-Applet created for eased calculation of speedups for events such as Alliance Throwdown
+This applet was created for eased calculation of speedup times for events such as Alliance Throwdown.
+### Information to Input:
+- number of speedups currently in your posession that are spefific to the task that you wish to speedup (ie. building speedups for speeding up construction)
+- number of general speedups in your posession
+- how many speedups you need / how much time you need sped up
+### Output of Applet
+- total value of your specific speedups in minutes
+- total value of your general speedups in minutes
+- total value of all your speedups in minutes
+- total value of speedups you need to finish the task you defined
+- how many speedups are you missing to finish this task (if the printed result is negative it means you have more speedups than you need, and it is telling informing you how many minutes of excess speedups you have)
 
 ## SoS-2
 Applet for calculating how much plasma you need to reach the next star level on a building upgrade
