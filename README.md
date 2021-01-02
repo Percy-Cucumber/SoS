@@ -51,21 +51,19 @@ If you need any farther assistance for which numerical values to update within e
 
 This applet is already setup to accomodate uo to 10 plasma ranks, even though only five currently exist. Currently anything past plasma level 5 can NOT affect your results, though further plasma values will be added to these placeholder slots as soon as more plasma levels are added to State of Survival.
 
-***NOTE: APPLET IS NOT YET FULLY COMPLETE***
-
 ### Input:
 - how many levels of each building upgrade have been completed
-- what plasma research has been completed (not yet implemented)
+- what plasma research has been completed
 ### Output:
 - plasma required to max all buildings
 - plasma spent on upgrading buildings thus far
 - plasma still required to finish all building upgrades
-- plasma required to max research (not yet implemented)
-- plasma spent on research thus far (not yet implemented)
-- plasma still required to finish all research (not yet implemented)
-- overall plasma cost up upgrading everything (not yet implemented)
-- total plasma spent across all sources (not yet implemented)
-- plasma still required to max everything (not yet implemented)
+- plasma required to max research
+- plasma spent on research thus far
+- plasma still required to finish all research
+- overall plasma cost up upgrading everything
+- total plasma spent across all sources
+- plasma still required to max everything
 
 ---
 ---
