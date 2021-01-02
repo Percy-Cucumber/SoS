@@ -6,6 +6,9 @@ These are a series of applets to be used alongside the mobile game State of Surv
 
 Launch Binder To Edit/Execute Jupyter Files In Browser Here -->  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Percy-Cucumber/SoS/HEAD)
 
+For help using these applets, either read the instructions below or watch the tutorial here:
+https://www.youtube.com/watch?v=gvNMLMT8fqU
+
 ---
 ---
 
